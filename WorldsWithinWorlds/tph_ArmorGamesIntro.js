@@ -12,7 +12,7 @@ function playIntro(windowHandleName, directory) {
 
     var videoElementA = document.createElement("a");
     videoElementA.style.textDecoration = "none";
-    videoElementA.href = "http://armor.ag/MoreGames";
+    videoElementA.href = "https://html-online-game.github.io/";
     videoElementA.target = "_blank";
 
     var videoElement = document.createElement("video");
